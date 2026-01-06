@@ -1,0 +1,456 @@
+Product,Zone_ID,Frequency
+holi pichkari & water guns,0,272
+holi herbal gulal,0,262
+holi baloon,0,258
+holi gulal,0,163
+holi water color,0,119
+holi t shirt,0,94
+other holi items,0,93
+holi color spray,0,77
+holi smoke,0,45
+holi hat and wig,0,44
+holi chandan,0,35
+battery,1,3023
+razors & blades,1,2746
+cigarettes,1,2545
+other stationery items,1,1515
+wax polishes,1,618
+dog food,1,488
+ointments,1,435
+sanitizers,1,389
+tooth pick,1,375
+contraceptives,1,270
+liquid polishes,1,216
+flavoured water,1,215
+cigarettes accessories,1,196
+diy accessories,1,192
+scissors,1,170
+baby cereal,1,168
+intimate wash,1,164
+disinfectants,1,162
+infant formula,1,122
+led & cfl,1,116
+toilet seat sanitizer spray,1,115
+tampons,1,115
+baby care accessories,1,88
+murabba,1,72
+locks,1,71
+cough & cold,1,69
+artificial flowers,1,51
+isabgol,1,38
+masks & face shields,1,28
+ready made mixes,1,26
+tonic water,1,22
+breads,2,20164
+dahi,2,17497
+noodles,2,15515
+salad dressing & spreads,2,10501
+sauces,2,10397
+cheese,2,10054
+butter,2,9207
+other milk products,2,9005
+frozen veg snacks,2,8941
+south indian mixes,2,6019
+pastas,2,5203
+other breads,2,4089
+yogurt,2,3898
+frozen peas & corn,2,3750
+pickles,2,3720
+frozen non veg snacks,2,3625
+instant noodles,2,3527
+seasonings,2,3137
+cooking paste,2,2949
+imported coffee,2,2858
+instant mixes,2,2698
+continental desserts,2,2666
+vinegar,2,1744
+baking needs,2,1524
+brown eggs,2,1351
+veg powdered soups,2,1303
+indian heat & eat,2,1277
+jams,2,1177
+dairy whitener,2,921
+essence,2,908
+dessert toppings,2,856
+condensed milk,2,822
+coconut milk,2,748
+cocoa powder & hot chocolate,2,631
+imported sauces,2,619
+imported cheese,2,601
+chutney,2,586
+flavoured health drink,2,569
+sweetners,2,464
+frozen parathas,2,396
+canned fruits,2,276
+wraps,2,192
+almond milk,2,168
+imported jams,2,164
+indian desserts,2,118
+non veg powdered soups,2,116
+canned non veg,2,101
+tomato,3,44424
+cucumber,3,37338
+onion,3,35365
+banana,3,32818
+leafy vegetables,3,32466
+potato,3,32389
+paneer,3,31706
+apple,3,30678
+lemon,3,29218
+carrot,3,24566
+capsicum,3,24122
+ginger,3,23414
+plain milk,3,22661
+bottle gourd,3,22125
+okra,3,19804
+cauliflower,3,18952
+exotic vegetables,3,18167
+beans,3,17759
+chilli,3,15850
+papaya,3,15622
+brinjal,3,15310
+garlic,3,13857
+mushroom,3,13273
+pear,3,11972
+orange,3,11946
+pumpkin,3,11867
+peas,3,10791
+pomegrante,3,10665
+raddish,3,9853
+beet root,3,9502
+guava,3,8518
+grapes,3,8313
+coconut,3,7093
+kiwi,3,7072
+cabbage,3,6540
+corn,3,6087
+gooseberry,3,5700
+blueberry,3,4696
+white eggs,3,4681
+avocado,3,4004
+pineapple,3,3346
+pitaya,3,3281
+cherry,3,3095
+sapota,3,2600
+jack fruit,3,1773
+turmeric,3,1686
+lotus stem,3,1623
+zucchini,3,532
+tamarind,3,255
+tissue rolls,4,9880
+toothpaste,4,8863
+soaps,4,7772
+detergent powders,4,6506
+garbage bags,4,5818
+handwash,4,5362
+utensil cleaner bars,4,5159
+toilet cleaners,4,4858
+room freshners,4,4495
+utensil cleaner liquids,4,4455
+detergent liquids,4,4259
+toothbrush,4,4073
+floor cleaners,4,3121
+sanitary pads,4,2876
+mosquito repellents,4,2654
+detergent bars,4,2636
+fabric softeners,4,2566
+scrubber,4,2226
+cling films & food wrapping paper,4,1986
+aluminium foils,4,1941
+glass cleaners,4,1940
+phenyls,4,1359
+insect killers,4,1319
+face tissues,4,1238
+toilet freshers,4,1181
+shoe care accessories,4,995
+whitening agents,4,883
+stain removers,4,825
+antiseptics,4,791
+rodent killers,4,750
+utensil cleaner powders,4,715
+ear buds,4,621
+all purpose cleaners,4,398
+starch,4,151
+metal & furniture care,4,31
+pulses,5,23221
+whole spices,5,22667
+readymixes,5,16901
+dry fruits,5,16857
+other cereals,5,16309
+powdered spices,5,14706
+rice,5,13992
+ghee,5,12133
+sugar,5,11271
+salt,5,10323
+mustard oil,5,7702
+papads,5,7535
+tea,5,7412
+wheat flour,5,6526
+besan,5,6219
+suji,5,5981
+other pooja needs,5,5307
+seeds,5,5249
+others flour,5,4343
+others,5,4303
+dates,5,3515
+flakes,5,3334
+oats,5,3172
+vermicelli,5,3058
+dhoop,5,2959
+jaggery,5,2855
+olive oil,5,2701
+match boxes,5,2507
+agarbathis,5,2337
+herbal tea,5,2316
+muesli,5,2269
+vadia,5,2249
+maida,5,2186
+soyabean oil,5,2081
+honey,5,1958
+blended edible oil,5,1931
+other cooking oil,5,1542
+sunflower oil,5,1521
+tablets/ liquids,5,1482
+macaroni,5,1314
+organic pulses,5,1244
+rice bran oil,5,1190
+jyot batti,5,1033
+groundnut oil,5,880
+kapur,5,591
+coconut oil,5,252
+others cereals,5,234
+chyavanprash,5,212
+kesar,5,182
+vanaspati,5,24
+other cleaning articles,6,5933
+"water bottle, flask & tumbler",6,1985
+broom,6,1639
+peeler & knife,6,1520
+cloth clips & hooks,6,1211
+cleaners & wipers,6,817
+brush,6,806
+strainer,6,782
+towels,6,719
+other cutlery & kitchenware items,6,697
+other kitchen articles,6,686
+carpet & mats,6,561
+kitchen tools,6,520
+soap case & holders,6,490
+ropes & hangers,6,456
+other cookware,6,346
+steel utensils,6,317
+bucket & drums,6,300
+gas lighter,6,298
+plastic basket,6,294
+cutlery set,6,281
+dust pan,6,279
+dust bin,6,262
+plastic tray,6,250
+chopping board,6,198
+mould,6,192
+rack & stand,6,162
+grater,6,159
+mops & refills,6,125
+bathing mug,6,106
+planter pot,6,102
+stool & patla,6,92
+cooker accessories,6,73
+other home furnishing,6,72
+whisk,6,44
+coaster,6,35
+UNKNOWN,7,5638
+festive supplies,7,3526
+"other bonechina, opalware & glassware",7,2876
+containers,7,1588
+festive basket/ thal/ tray,7,1238
+glass sets,7,831
+lunch containers,7,732
+spoon & fork,7,728
+festive decoration,7,712
+diyas & candles,7,699
+plates,7,449
+dessert & serving sets,7,422
+bowl,7,291
+serving & cooking spoons,7,269
+infant toys,7,253
+"plastic jugs, glass & mugs",7,188
+jars,7,182
+idols & figurines,7,177
+bedsheets,7,163
+mortar and pestle set,7,155
+mugs,7,153
+melamine bowls,7,147
+kadai,7,136
+casserole,7,123
+wooden items,7,120
+tawa,7,116
+dispensers,7,98
+gift packs,7,95
+pressure cooker,7,94
+dinner sets,7,93
+electronics,7,85
+appliances,7,84
+patila,7,68
+other home décor,7,61
+sauce pan,7,59
+lota,7,56
+thali,7,35
+ashtray,7,34
+table cover,7,29
+napkin holder,7,24
+fry pan,7,20
+other utensils,7,20
+broccoli,8,76
+sprouts,8,49
+mango,9,24157
+melon,9,18356
+bitter gourd,9,9988
+colocasia,9,9292
+sponge gourd,9,9015
+apple gourd,9,7218
+sweet lime,9,5300
+pointed gourd,9,3966
+plum,9,3411
+litchi,9,2293
+java plum,9,2134
+ivy gourd,9,2093
+peach,9,1720
+spine gourd,9,1171
+ridge gourd,9,1067
+rakhi,9,972
+khurmani,9,807
+wood apple,9,781
+berry,9,473
+bengal currant,9,402
+badam,9,151
+coconut water,9,148
+snake gourd,9,142
+taro,9,129
+yam,9,60
+shampoos,10,6841
+hair colours,10,5995
+hair oils,10,3951
+face wash/cleansers,10,3729
+body lotions/oils,10,3695
+skin creams,10,3224
+body wash/gels,10,2970
+hair styling,10,2241
+deos,10,2191
+brushes & combs,10,1940
+diapers & wipes,10,1595
+conditioners,10,1560
+imported deos,10,1536
+perfumes,10,1328
+shaving creams/foams / gels,10,1293
+car freshners,10,1273
+makeup accessories,10,1109
+talcs,10,1093
+mouthwash,10,797
+baby skincare,10,765
+toner & cleanser,10,765
+roll ons,10,707
+haircare products,10,635
+after shave,10,630
+skin care accessories,10,615
+baby soap,10,586
+diffusers & oil,10,526
+umbrella,10,471
+baby shampoo,10,414
+manicure/pedicure accessories,10,402
+hair removers,10,398
+oral care accessories,10,394
+beard grooming,10,319
+baby oral care,10,234
+baby oil,10,197
+toothpowder,10,174
+face wipes,10,117
+imported perfumes,10,101
+trimmers,10,72
+shaving brushes,10,62
+office stationery,11,354
+coloring & writing,11,257
+books & pads,11,85
+gloves,11,52
+school accessories,11,38
+raw material,11,28
+electrical accessories,11,22
+other nail care products,12,895
+face packs & bleach,12,870
+lip balm,12,748
+nail polish,12,614
+sunscreens,12,565
+kajal,12,545
+face mask,12,343
+nail polish removers,12,320
+lipstick,12,309
+other face care products,12,292
+other eyecare products,12,235
+eyebrow pencils,12,196
+haircare accessories,12,129
+sindoor,12,114
+compact & presses powder,12,110
+other lipcare products,12,110
+mosquito racquets,12,105
+makeup remover,12,36
+lip gloss,12,27
+mascara,12,24
+chikkis,13,4322
+strawberry,13,3882
+kinnow,13,3253
+jujube,13,1567
+turnip,13,1472
+custard apple,13,1084
+persimmons,13,539
+chest nuts,13,363
+radish pod,13,198
+anjeer,13,23
+branded biscuits & cookies,14,45125
+namkeens,14,34546
+chocolates,14,32475
+shopping bags,14,32035
+chips & wafers,14,28344
+carbonated soft drinks,14,20799
+other snacks,14,17713
+toffee & candies,14,10553
+dry cakes,14,9412
+bakery biscuits & cookies,14,8673
+rusk,14,8481
+gum/mints,14,8099
+fruit & vegetable juices,14,7682
+flavoured milk,14,6043
+instant coffee,14,5824
+mineral water,14,4816
+non-alcoholic drinks,14,4722
+liquid concentrates,14,4123
+ice cream,14,3444
+savoury,14,3191
+health drink,14,2939
+energy drinks,14,2887
+tea bags,14,2767
+soda,14,2637
+digestive,14,2632
+energy bars & supplements,14,2613
+mixtures & candies,14,2521
+wafer biscuit,14,2452
+bio degradable kitchen disposables,14,2323
+health snacks,14,2002
+cakes & pastries,14,1862
+dried fruits,14,1843
+ayurvedic products,14,1503
+powder concentrates,14,1337
+non biodegradable kitchen disposables,14,1129
+khari,14,1076
+mathri,14,789
+herbal juice,14,768
+flavoured dry fruits,14,746
+sweets,14,654
+green tea,14,478
+other medicare items,14,440
+key ring,14,377
+natural juices,14,376
+ice cube,14,306
+party decoration,14,273
+cold pressed juices,14,232
+mouth freshners,14,215
+fryums,14,114
+accessories,14,36
